@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'CV-theodora'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DFDEA12BD0644FC9003603D69A48364 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E028BEB15F7644B997D1C31B9DACD7DB }}
           package: .
